@@ -21,8 +21,20 @@
 <img width="492" height="258" alt="スクリーンショット 2026-10-10 001218" src="https://github.com/user-attachments/assets/017b9d44-30c5-41ee-a6a5-e604e8e5df0b" />
 
 ## 🎥 ビデオ
-https://github.com/user-attachments/assets/0ad19596-62b7-4199-9cf7-8a82eea0cc63
+<details>
+  <summary><strong>プレイ動画を見る</strong></summary>
+
+  https://github.com/user-attachments/assets/3d3355b3-e22e-4122-8ab6-cf851b3daeca
+
+</details>
 
 ## 📷 展示日画像
-<img width="426" height="320" alt="展示日1" src="https://github.com/user-attachments/assets/75ae8cb6-8a99-4a94-a43d-21fd93570ae0" />
-<img width="426" height="320" alt="展示日2" src="https://github.com/user-attachments/assets/7fd0f8b1-df66-4009-ac40-26e7365c4e33" />
+<img width="385" height="288" alt="展示日1" src="https://github.com/user-attachments/assets/75ae8cb6-8a99-4a94-a43d-21fd93570ae0" />
+<img width="385" height="288" alt="展示日2" src="https://github.com/user-attachments/assets/7fd0f8b1-df66-4009-ac40-26e7365c4e33" />
+
+---
+## 💁 ここまで見てくれたHAL生へ
+
+> [!IMPORTANT]
+> ここまで見てくれてありがとう！GitHubを活用していて偉い！<br>
+> 自分の作品が少しでも参考になればうれしいです。初めてのHEW制作、頑張ってね！🫶
