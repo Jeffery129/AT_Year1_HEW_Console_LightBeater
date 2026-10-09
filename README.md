@@ -23,8 +23,8 @@
 ## 🎥 ビデオ
 <details>
   <summary><strong>プレイ動画を見る</strong></summary>
-
-  https://github.com/user-attachments/assets/3d3355b3-e22e-4122-8ab6-cf851b3daeca
+  
+  https://github.com/user-attachments/assets/88314f51-07a0-4169-bfd2-1277efee2275
 
 </details>
 
