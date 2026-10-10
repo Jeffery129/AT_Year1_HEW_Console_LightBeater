@@ -22,7 +22,7 @@
 
 ## 🎥 ビデオ
 <details>
-  <summary><strong>プレイ動画を見る</strong></summary>
+  <summary><strong>クリックして、プレイ動画を見る</strong></summary>
   
   https://github.com/user-attachments/assets/88314f51-07a0-4169-bfd2-1277efee2275
 
@@ -33,7 +33,7 @@
 <img width="385" height="288" alt="展示日2" src="https://github.com/user-attachments/assets/7fd0f8b1-df66-4009-ac40-26e7365c4e33" />
 
 ---
-## 💁 ここまで見てくれたHAL生へ
+## 💁 ここまで見てくれたHAL一年生へ
 
 > [!IMPORTANT]
 > ここまで見てくれてありがとう！GitHubを活用していて偉い！<br>
